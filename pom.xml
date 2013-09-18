@@ -165,10 +165,6 @@
     </scm>
 
     <distributionManagement>
-        <site>
-            <id>github-project-site</id>
-            <url>gitsite:git@github.com/bazaarvoice/mongojack.git</url>
-        </site>
         <repository>
             <id>bazaarvoice-deploy</id>
             <url>https://repo.bazaarvoice.com/nexus/content/repositories/releases/</url>
