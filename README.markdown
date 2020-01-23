@@ -1,3 +1,5 @@
+DEPRECATED - rolodex is using open source code instead
+
 Mapping to POJOs couldn't be easier!
 ====================================
 
